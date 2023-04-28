@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarvang00 (You can call me Sarvang)
-- 👀 I’m interested in Machine Learning and AI, but also coding in general.
-- 🌱 I’m currently learning golang and pytorch.
-- 💞️ I’m looking to collaborate on any projects related to AI.
+- 👀 I’m interested in Web, Data Science and Machine Learning-based projects.
+- 🌱 I’m currently learning golang and Rust is somewhere in the pipeline too - it seems like an intersting one to try out.
+- 💞️ I’m open to collaborations.
 - 📫 You can reach me on my email at sarvang00@gmail.com
 
 <!---
