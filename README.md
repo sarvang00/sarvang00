@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarvang00 (You can call me Sarvang)
-- 👀 I’m interested in Web, Data Science and Machine Learning-based projects.
+- 👀 I’m interested in any and all scale projects. CLI Tools, Web Apps, Cloud-hosted apps. Always looking for something interesting.
 - 🌱 I’m currently learning golang and Rust is somewhere in the pipeline too - it seems like an intersting one to try out.
 - 💞️ I’m open to collaborations.
 - 📫 You can reach me on my email at sarvang00@gmail.com
