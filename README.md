@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarvang00 (You can call me Sarvang)
-- 👀 I’m interested in any and all scale projects. CLI Tools, Web Apps, Cloud-hosted apps. Always looking for something interesting.
-- 🌱 I’m currently learning golang and Rust is somewhere in the pipeline too - it seems like an intersting one to try out.
-- 💞️ I’m open to collaborations.
+- 👀 I have worked on projects of all scales - personal projects to startups to projects of Fortune-500 companies. Always looking forward to the next interesting project.
+- 🌱 I’m currently learning golang - looks like the language of the future on backend, can't wait to explore more.
+- 💞️ I’m open to collaborations and oppotunities to contribute.
 - 📫 You can reach me on my email at sarvang00@gmail.com
 
 <!---
